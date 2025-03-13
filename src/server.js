@@ -7,7 +7,6 @@ const getPipelineResults = () => {
   return [
     { name: 'Step 1', status: 'Success', duration: 120 },
     { name: 'Step 2', status: 'Failed', duration: 45 },
-    // Más resultados...
   ];
 };
 
